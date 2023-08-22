@@ -2,7 +2,7 @@
 <!--- Describe your changes in detail -->
 
 ## 🐛 Type of Issue
-- [ ] Defect
+- [x] Defect
 - [ ] Enhancement
 - [ ] Feature Request
 
