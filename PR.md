@@ -1,6 +1,5 @@
 ## 🐛 Type of Issue
 - [x] Defect
-- [ ] Enhancement
 - [ ] Feature Request
       
 ## 🗒️ Description
