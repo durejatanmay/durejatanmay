@@ -12,7 +12,7 @@ To run MBE application locally, run the following commands-
 docker-compose up -d (Brings up docker mysql and redis)
 ./gradlew app:bootRun
 
-Chanelog: 051123 Arvind
+_Chanelog: 051123 Arvind_
 
-1) Bumped gradle version to 7.5
-2) Removed jwt references from application properties
+_1) Bumped gradle version to 7.5_<br>
+_2) Removed jwt references from application properties_
