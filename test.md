@@ -1,4 +1,6 @@
-![blume logo] (https://www.blumeglobal.com/wp-content/uploads/2019/01/Blume-Logo-Email-e1551817358462-650x266.png)
+
+![image](https://github.com/durejatanmay/durejatanmay/assets/130394703/208c5361-93db-4472-ac40-d2ffc59ffbf5)
+
 # MBE Repository
 
 Foobar is a Python library for dealing with word pluralization.
