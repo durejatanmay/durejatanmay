@@ -9,8 +9,10 @@ Master Business Entities for Shipment and Transportation Orders
 
 To run MBE application locally, run the following commands-
 
+```
 docker-compose up -d (Brings up docker mysql and redis)
 ./gradlew app:bootRun
+```
 
 _Chanelog: 051123 Arvind_
 
