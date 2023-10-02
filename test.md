@@ -1,5 +1,5 @@
 
-![image](https://www.blumeglobal.com/wp-content/uploads/2019/01/Blume-Logo-Email-e1551817358462-650x266.png =100x)
+![image](https://www.blumeglobal.com/wp-content/uploads/2019/01/Blume-Logo-Email-e1551817358462-650x266.png | width=200)
 
 # MBE Repository
 
