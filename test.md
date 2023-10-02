@@ -1,5 +1,5 @@
 
-![image](https://github.com/durejatanmay/durejatanmay/assets/130394703/208c5361-93db-4472-ac40-d2ffc59ffbf5)
+![image](https://www.blumeglobal.com/wp-content/uploads/2019/01/Blume-Logo-Email-e1551817358462-650x266.png)
 
 # MBE Repository
 
