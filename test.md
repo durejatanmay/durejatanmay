@@ -3,38 +3,16 @@
 
 # MBE Repository
 
-Foobar is a Python library for dealing with word pluralization.
+Master Business Entities for Shipment and Transportation Orders
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+To run MBE application locally, run the following commands-
 
-```bash
-pip install foobar
-```
+docker-compose up -d (Brings up docker mysql and redis)
+./gradlew app:bootRun
 
-## Usage
+Chanelog: 051123 Arvind
 
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+1) Bumped gradle version to 7.5
+2) Removed jwt references from application properties
